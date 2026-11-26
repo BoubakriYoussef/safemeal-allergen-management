@@ -1,4 +1,4 @@
-# RepasSur
+# SafeMeal
 
 [![CI](https://github.com/BoubakriYoussef/repas_sur2/actions/workflows/ci.yml/badge.svg)](https://github.com/BoubakriYoussef/repas_sur2/actions/workflows/ci.yml)
 
